@@ -28,6 +28,8 @@ img {
     padding: 0 2rem 0;
 }
 
+/*------------------------------------------------------------------------------- Intro section */
+
 h1 {
     font-family: 'Young Serif', sans-serif;
     font-size: 34px;
@@ -35,4 +37,24 @@ h1 {
 
 #intro p {
     margin: 20px 0;
+}
+
+#prep-time-container {
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 30px 0;
+}
+
+#prep-time-container h4 {
+    color: hsl(332, 51%, 32%);
+    font-size: 20px;
+}
+
+#prep-time-container ul {
+    padding: 0 30px;
+}
+
+#prep-time-container ul li {
+    padding: 10px 0;
 }
