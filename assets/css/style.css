@@ -62,7 +62,7 @@ h3 {
 }
 
 #prep-time-container ul {
-    padding: 0 30px;    
+    padding: 0 30px;
 }
 
 /*------------------------------------------------------------------------------- Unordered list style */
@@ -129,7 +129,7 @@ ol li::marker {
     font-weight: 700;
 }
 
-#nutrition > p {
+#nutrition>p {
     margin-bottom: 25px;
 }
 
