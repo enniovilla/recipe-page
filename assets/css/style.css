@@ -39,7 +39,7 @@ h3 {
     font-family: 'Young Serif', sans-serif;
     font-size: 28px;
     font-weight: 400;
-    color: hsl(332, 51%, 32%);
+    color: hsl(14, 45%, 36%);
 }
 
 /*------------------------------------------------------------------------------- Intro section */
@@ -56,7 +56,7 @@ h3 {
 }
 
 #prep-time-container h4 {
-    color: hsl(332, 51%, 32%);
+    color: hsl(14, 45%, 36%);
     font-size: 20px;
     margin-bottom: 10px;
 }
@@ -72,7 +72,7 @@ ul li {
 }
 
 ul li::marker {
-    color: hsl(332, 51%, 32%);
+    color: hsl(14, 45%, 36%);
 }
 
 /*------------------------------------------------------------------------------- Ingredients section */
@@ -105,7 +105,7 @@ ol li {
 }
 
 ol li::marker {
-    color: hsl(332, 51%, 32%);
+    color: hsl(14, 45%, 36%);
     font-weight: 600;
 }
 
@@ -125,7 +125,7 @@ ol li::marker {
 }
 
 .value {
-    color: hsl(332, 51%, 32%);
+    color: hsl(14, 45%, 36%);
     font-weight: 700;
 }
 
