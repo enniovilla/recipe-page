@@ -17,7 +17,7 @@
 body {
     display: flex;
     flex-direction: column;
-    font-family: 'Young Serif', 'Outfit', sans-serif;
+    font-family: 'Outfit', sans-serif;
 }
 
 img {
@@ -26,4 +26,13 @@ img {
 
 #page {
     padding: 0 2rem 0;
+}
+
+h1 {
+    font-family: 'Young Serif', sans-serif;
+    font-size: 34px;
+}
+
+#intro p {
+    margin: 20px 0;
 }
