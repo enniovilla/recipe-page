@@ -56,13 +56,13 @@ h3 {
 }
 
 #prep-time-container h4 {
-    color: hsl(14, 45%, 36%);
+    color: hsl(332, 51%, 32%);
     font-size: 20px;
     margin-bottom: 10px;
 }
 
 #prep-time-container ul {
-    padding: 0 30px;
+    padding: 0 30px;    
 }
 
 /*------------------------------------------------------------------------------- Unordered list style */
