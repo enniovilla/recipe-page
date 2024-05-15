@@ -49,6 +49,7 @@ h1 {
 #prep-time-container h4 {
     color: hsl(332, 51%, 32%);
     font-size: 20px;
+    margin-bottom: 10px;
 }
 
 #prep-time-container ul {
@@ -56,5 +57,9 @@ h1 {
 }
 
 #prep-time-container ul li {
-    padding: 10px 0;
+    padding: 10px 0 10px 20px;
+}
+
+#prep-time-container ul li::marker {
+    color: hsl(332, 51%, 32%);
 }
