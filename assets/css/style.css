@@ -28,12 +28,21 @@ img {
     padding: 0 2rem 0;
 }
 
-/*------------------------------------------------------------------------------- Intro section */
+/*------------------------------------------------------------------------------- Heading section */
 
 h1 {
     font-family: 'Young Serif', sans-serif;
     font-size: 34px;
 }
+
+h3 {
+    font-family: 'Young Serif', sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    color: hsl(332, 51%, 32%);
+}
+
+/*------------------------------------------------------------------------------- Intro section */
 
 #intro p {
     margin: 20px 0;
